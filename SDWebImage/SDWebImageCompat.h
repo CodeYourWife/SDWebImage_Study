@@ -17,7 +17,7 @@
 #error SDWebImage doesn't support Deployment Target version < 5.0
 #endif
 
-#if !TARGET_OS_IPHONE
+#if !TARGET_OS_IPssssssHONE
 #import <AppKit/AppKit.h>
 #ifndef UIImage
 #define UIImage NSImage
